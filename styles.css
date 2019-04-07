@@ -1,0 +1,18 @@
+body {
+    background-color: #FF9C91;
+    font-family: 'Oswald', sans-serif;
+    font-size: 70px;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 50px;
+    text-decoration: underline;
+    text-decoration-style: dashed ;
+    font-family: 'Roboto', sans-serif;
+}
+
+#myClockDisplay {
+    margin-top: 300px;
+    font-size: 200px;
+}
